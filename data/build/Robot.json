@@ -1,0 +1,30 @@
+{
+ "assembly": "Robot",
+ "wheels": {
+  "Wheel_Low_Right": "left",
+  "Wheel_Low_Left": "right",
+  "Wheel_Upper_Right": "right",
+  "Wheel_Upper_Left": "left"
+ },
+ "board": "left out: no board document in model/electronics",
+ "instances": 43,
+ "joints": 42,
+ "degrees_of_freedom": 4,
+ "overlap": "none",
+ "contact_gap": 0.5,
+ "overlaps_by_design": 40,
+ "excused": [],
+ "top_roller_off_centre_line_deg": {
+  "Wheel_Low_Right": 1.68,
+  "Wheel_Low_Left": 1.68,
+  "Wheel_Upper_Right": 1.68,
+  "Wheel_Upper_Left": 1.68
+ },
+ "groups": {
+  "Printed_parts": 1,
+  "Norm_parts": 28,
+  "COTS": 9,
+  "Assemblies": 5
+ },
+ "parts": 387
+}

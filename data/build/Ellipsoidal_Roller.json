@@ -1,0 +1,40 @@
+{
+ "document": "model/wheel/Ellipsoidal_Roller.FCStd",
+ "volume": 3342.562,
+ "faces": 12,
+ "bbox": [
+  -17.0,
+  -6.8,
+  20.023,
+  17.0,
+  6.8,
+  33.623
+ ],
+ "flexed": [
+  {
+   "dimension": "bore_r",
+   "to": "2.0",
+   "volume": 3432.019
+  },
+  {
+   "dimension": "edge_chamfer",
+   "to": "0.4",
+   "volume": 3339.307
+  },
+  {
+   "dimension": "roller_angle",
+   "to": "46 deg",
+   "volume": 3312.285
+  },
+  {
+   "dimension": "roller_r",
+   "to": "7 mm",
+   "volume": 3611.544
+  },
+  {
+   "dimension": "seat_d",
+   "to": "7 mm",
+   "volume": 3275.778
+  }
+ ]
+}

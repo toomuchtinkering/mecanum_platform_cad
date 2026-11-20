@@ -1,0 +1,40 @@
+{
+ "document": "model/wheel/Outer_Side_Right.FCStd",
+ "volume": 30206.9818,
+ "faces": 120,
+ "bbox": [
+  -32.5,
+  -65.6073,
+  -32.5,
+  32.5,
+  -35.0,
+  32.499
+ ],
+ "flexed": [
+  {
+   "dimension": "cup_round",
+   "to": "4.5 mm",
+   "volume": 30209.597
+  },
+  {
+   "dimension": "cup_chamfer",
+   "to": "1.4 mm",
+   "volume": 30247.508
+  },
+  {
+   "dimension": "pin_axis_r",
+   "to": "27.3 mm",
+   "volume": 30193.47
+  },
+  {
+   "dimension": "pin_hole_depth",
+   "to": "3 mm",
+   "volume": 30233.924
+  },
+  {
+   "dimension": "pin_hole_round",
+   "to": "0.8 mm",
+   "volume": 30201.096
+  }
+ ]
+}

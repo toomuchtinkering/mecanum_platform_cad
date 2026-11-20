@@ -1,0 +1,27 @@
+{
+ "assembly": "Wheel_Right",
+ "instances": 30,
+ "joints": 29,
+ "degrees_of_freedom": 0,
+ "datums_matched": [
+  "Roller1.CLAW_B.Pin = Outer_Side.PIN5",
+  "Roller2.CLAW_B.Pin = Outer_Side.PIN4",
+  "Roller3.CLAW_B.Pin = Outer_Side.PIN3",
+  "Roller4.CLAW_B.Pin = Outer_Side.PIN2",
+  "Roller5.CLAW_B.Pin = Outer_Side.PIN1",
+  "Roller6.CLAW_B.Pin = Outer_Side.PIN9",
+  "Roller7.CLAW_B.Pin = Outer_Side.PIN8",
+  "Roller8.CLAW_B.Pin = Outer_Side.PIN7",
+  "Roller9.CLAW_B.Pin = Outer_Side.PIN6"
+ ],
+ "overlap": "none",
+ "contact_gap": 0.5,
+ "overlaps_by_design": 18,
+ "excused": [],
+ "groups": {
+  "Printed_parts": 3,
+  "Norm_parts": 18,
+  "Assemblies": 9
+ },
+ "parts": 75
+}

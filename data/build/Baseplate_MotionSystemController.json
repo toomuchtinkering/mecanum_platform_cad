@@ -1,0 +1,40 @@
+{
+ "document": "model/body/Baseplate_MotionSystemController.FCStd",
+ "volume": 21263.8521,
+ "faces": 45,
+ "bbox": [
+  -0.0,
+  -69.0,
+  -0.0,
+  102.0,
+  0.0,
+  4.0
+ ],
+ "flexed": [
+  {
+   "dimension": "plate_length",
+   "to": "110.0",
+   "volume": 22917.852
+  },
+  {
+   "dimension": "boss_pair_high_blend",
+   "to": "8.0",
+   "volume": 21263.195
+  },
+  {
+   "dimension": "board_screw4_u",
+   "to": "92 mm",
+   "volume": 21268.933
+  },
+  {
+   "dimension": "board_hole3_x",
+   "to": "96 mm",
+   "volume": 21261.594
+  },
+  {
+   "dimension": "board1_dia",
+   "to": "3.5",
+   "volume": 21310.976
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "document": "model/drive/Nema_17_Mount.FCStd",
+ "volume": 1872.1101,
+ "faces": 19,
+ "bbox": [
+  -14.0,
+  18.0,
+  -14.0,
+  14.0,
+  27.0,
+  13.9978
+ ],
+ "flexed": [
+  {
+   "dimension": "boss_top",
+   "to": "11.0",
+   "volume": 1905.34
+  },
+  {
+   "dimension": "hub_d",
+   "to": "13.0",
+   "volume": 2039.998
+  },
+  {
+   "dimension": "shaft_flat",
+   "to": "2 mm",
+   "volume": 1873.826
+  },
+  {
+   "dimension": "hub_screw_circle_d",
+   "to": "22 mm",
+   "volume": 1872.11
+  },
+  {
+   "dimension": "bolt_dia",
+   "to": "3.5",
+   "volume": 1859.481
+  }
+ ]
+}

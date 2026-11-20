@@ -1,0 +1,15 @@
+{
+ "assembly": "Roller_Assembly",
+ "instances": 6,
+ "joints": 5,
+ "degrees_of_freedom": 1,
+ "overlap": "none",
+ "contact_gap": 0.5,
+ "overlaps_by_design": 0,
+ "excused": [],
+ "groups": {
+  "Printed_parts": 4,
+  "COTS": 2
+ },
+ "parts": 6
+}

@@ -1,0 +1,50 @@
+{
+ "document": "model/body/Body_Alignment_Plate.FCStd",
+ "volume": 28360.8657,
+ "faces": 36,
+ "bbox": [
+  -66.323,
+  -66.323,
+  2.0,
+  66.323,
+  66.323,
+  5.0
+ ],
+ "flexed": [
+  {
+   "dimension": "corner_chamfer",
+   "to": "8.0",
+   "volume": 28127.744
+  },
+  {
+   "dimension": "plate_hole_spread",
+   "to": "20 mm",
+   "volume": 28360.866
+  },
+  {
+   "dimension": "plate_diag",
+   "to": "66 mm",
+   "volume": 25106.482
+  },
+  {
+   "dimension": "hole_dia",
+   "to": "3.5",
+   "volume": 28431.552
+  },
+  {
+   "dimension": "baseplate_x",
+   "to": "52 mm",
+   "volume": 28360.866
+  },
+  {
+   "dimension": "baseplate_y",
+   "to": "-63 mm",
+   "volume": 28360.866
+  },
+  {
+   "dimension": "plate_slot_y1",
+   "to": "20 mm",
+   "volume": 28360.866
+  }
+ ]
+}

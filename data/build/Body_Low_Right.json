@@ -1,0 +1,55 @@
+{
+ "document": "model/body/Body_Low_Right.FCStd",
+ "volume": 94166.608,
+ "faces": 59,
+ "bbox": [
+  -15.0,
+  -127.0,
+  -0.0,
+  110.0,
+  0.0,
+  50.0
+ ],
+ "flexed": [
+  {
+   "dimension": "wall_t",
+   "to": "4 mm",
+   "volume": 84501.728
+  },
+  {
+   "dimension": "tongue_len",
+   "to": "12 mm",
+   "volume": 94166.608
+  },
+  {
+   "dimension": "corner_r",
+   "to": "6 mm",
+   "volume": 93325.369
+  },
+  {
+   "dimension": "plate_diag",
+   "to": "66 mm",
+   "volume": 94982.608
+  },
+  {
+   "dimension": "motor_z",
+   "to": "28 mm",
+   "volume": 94166.608
+  },
+  {
+   "dimension": "baseplate_x",
+   "to": "52 mm",
+   "volume": 94166.608
+  },
+  {
+   "dimension": "baseplate_y",
+   "to": "-63 mm",
+   "volume": 94169.967
+  },
+  {
+   "dimension": "joint_z1",
+   "to": "16 mm",
+   "volume": 94166.608
+  }
+ ]
+}

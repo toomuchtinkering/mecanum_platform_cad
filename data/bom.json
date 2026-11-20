@@ -1,0 +1,225 @@
+[
+ {
+  "assembly": "model/assembly/Robot.FCStd",
+  "printed": [
+   {
+    "part": "Baseplate_MotionSystemController",
+    "material": "PLA",
+    "document": "model/body/Baseplate_MotionSystemController.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Body_Alignment_Plate",
+    "material": "PLA",
+    "document": "model/body/Body_Alignment_Plate.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Body_Low_Left",
+    "material": "PLA",
+    "document": "model/body/Body_Low_Left.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Body_Low_Right",
+    "material": "PLA",
+    "document": "model/body/Body_Low_Right.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Body_Upper_Left",
+    "material": "PLA",
+    "document": "model/body/Body_Upper_Left.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Body_Upper_Right",
+    "material": "PLA",
+    "document": "model/body/Body_Upper_Right.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Nema_17_Mount",
+    "material": "PLA",
+    "document": "model/drive/Nema_17_Mount.FCStd",
+    "qty": 4
+   },
+   {
+    "part": "Ellipsoidal_Roller",
+    "material": "TPU",
+    "document": "model/wheel/Ellipsoidal_Roller.FCStd",
+    "qty": 36
+   },
+   {
+    "part": "Motor_Side_Left",
+    "material": "PLA",
+    "document": "model/wheel/Motor_Side_Left.FCStd",
+    "qty": 2
+   },
+   {
+    "part": "Motor_Side_Right",
+    "material": "PLA",
+    "document": "model/wheel/Motor_Side_Right.FCStd",
+    "qty": 2
+   },
+   {
+    "part": "Outer_Side_Left",
+    "material": "PLA",
+    "document": "model/wheel/Outer_Side_Left.FCStd",
+    "qty": 2
+   },
+   {
+    "part": "Outer_Side_Right",
+    "material": "PLA",
+    "document": "model/wheel/Outer_Side_Right.FCStd",
+    "qty": 2
+   },
+   {
+    "part": "Pin_For_Ball_Bearing",
+    "material": "PLA",
+    "document": "model/wheel/Pin_For_Ball_Bearing.FCStd",
+    "qty": 36
+   },
+   {
+    "part": "Washer",
+    "material": "PLA",
+    "document": "model/wheel/Washer.FCStd",
+    "qty": 72
+   }
+  ],
+  "bought": [
+   {
+    "part": "Ball bearing 673ZZ, 3 x 6 x 2.5 mm",
+    "material": "steel",
+    "document": "model/bought/Ball_Bearing_673ZZ.FCStd",
+    "qty": 72
+   },
+   {
+    "part": "Battery pack 2200 mAh, 108 x 35 x 25 mm",
+    "material": "bought",
+    "document": "model/bought/Battery_2200mAh.FCStd",
+    "qty": 1
+   },
+   {
+    "part": "Hex spacer M3 x 5, female/female, 5 mm across flats",
+    "material": "brass",
+    "document": "model/bought/Spacer_M3x5.FCStd",
+    "qty": 4
+   },
+   {
+    "part": "NEMA 17 stepper motor, 42.3 mm square, 40 mm long, \u00d85 mm shaft with flat",
+    "material": "bought",
+    "document": "model/bought/NEMA17_Stepper.FCStd",
+    "qty": 4
+   }
+  ],
+  "fasteners": [
+   {
+    "fastener": "Insert",
+    "standard": "IUTHeatInsert",
+    "size": "M3 x 3",
+    "diameter": "M3",
+    "length": 3.0,
+    "material": "brass",
+    "qty": 16
+   },
+   {
+    "fastener": "Insert",
+    "standard": "IUTHeatInsert",
+    "size": "M3 x 4",
+    "diameter": "M3",
+    "length": 4.0,
+    "material": "brass",
+    "qty": 4
+   },
+   {
+    "fastener": "Insert",
+    "standard": "IUTHeatInsert",
+    "size": "M3 x 5.74",
+    "diameter": "M3",
+    "length": 5.74,
+    "material": "brass",
+    "qty": 48
+   },
+   {
+    "fastener": "Screw",
+    "standard": "ISO 10642",
+    "size": "M3 x 4",
+    "diameter": "M3",
+    "length": 4.0,
+    "material": "steel, black oxide",
+    "qty": 16
+   },
+   {
+    "fastener": "Screw",
+    "standard": "ISO 10642",
+    "size": "M3 x 6",
+    "diameter": "M3",
+    "length": 6.0,
+    "material": "steel, black oxide",
+    "qty": 4
+   },
+   {
+    "fastener": "Screw",
+    "standard": "ISO 10642",
+    "size": "M3 x 8",
+    "diameter": "M3",
+    "length": 8.0,
+    "material": "steel, black oxide",
+    "qty": 4
+   },
+   {
+    "fastener": "Screw",
+    "standard": "ISO 4762",
+    "size": "M3 x 6",
+    "diameter": "M3",
+    "length": 6.0,
+    "material": "steel, black oxide",
+    "qty": 16
+   },
+   {
+    "fastener": "Screw",
+    "standard": "ISO 4762",
+    "size": "M3 x 8",
+    "diameter": "M3",
+    "length": 8.0,
+    "material": "steel, black oxide",
+    "qty": 32
+   },
+   {
+    "fastener": "Screw",
+    "standard": "ISO 4762",
+    "size": "M3 x 10",
+    "diameter": "M3",
+    "length": 10.0,
+    "material": "steel, black oxide",
+    "qty": 4
+   }
+  ],
+  "assemblies": [
+   {
+    "assembly": "Body",
+    "document": "model/assembly/Body.FCStd",
+    "qty": 1
+   },
+   {
+    "assembly": "Roller_Assembly",
+    "document": "model/assembly/Roller_Assembly.FCStd",
+    "qty": 36
+   },
+   {
+    "assembly": "Wheel_Left",
+    "document": "model/assembly/Wheel_Left.FCStd",
+    "qty": 2
+   },
+   {
+    "assembly": "Wheel_Right",
+    "document": "model/assembly/Wheel_Right.FCStd",
+    "qty": 2
+   }
+  ],
+  "notes": [
+   "The controller board is designed in KiCad and is not part of this repository, so neither it nor the four ISO 4762 M3 x 4 screws that hold it on its spacers are counted here."
+  ]
+ }
+]

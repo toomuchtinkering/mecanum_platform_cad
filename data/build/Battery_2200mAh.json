@@ -1,0 +1,25 @@
+{
+ "document": "model/bought/Battery_2200mAh.FCStd",
+ "volume": 93277.7871,
+ "faces": 13,
+ "bbox": [
+  -54.0,
+  -17.5,
+  -0.0,
+  54.0,
+  22.5,
+  25.0
+ ],
+ "flexed": [
+  {
+   "dimension": "side_r0",
+   "to": "8.0",
+   "volume": 93818.584
+  },
+  {
+   "dimension": "Length",
+   "to": "34.0",
+   "volume": 90620.708
+  }
+ ]
+}

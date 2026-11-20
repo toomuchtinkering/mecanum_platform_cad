@@ -1,0 +1,30 @@
+{
+ "document": "model/wheel/Washer.FCStd",
+ "volume": 11.9459,
+ "faces": 8,
+ "bbox": [
+  -2.3,
+  -1.4,
+  -2.3,
+  2.3,
+  -0.0,
+  2.3
+ ],
+ "flexed": [
+  {
+   "dimension": "thickness",
+   "to": "2.0",
+   "volume": 17.092
+  },
+  {
+   "dimension": "chamfer",
+   "to": "0.2",
+   "volume": 11.027
+  },
+  {
+   "dimension": "inner_r",
+   "to": "1.5",
+   "volume": 13.311
+  }
+ ]
+}

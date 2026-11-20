@@ -1,0 +1,25 @@
+{
+ "document": "model/bought/Ball_Bearing_673ZZ.FCStd",
+ "volume": 47.925,
+ "faces": 12,
+ "bbox": [
+  -3.0,
+  -3.0,
+  -0.0,
+  3.0,
+  3.0,
+  2.5
+ ],
+ "flexed": [
+  {
+   "dimension": "ring_x5",
+   "to": "3.5",
+   "volume": 73.45
+  },
+  {
+   "dimension": "ring_y6",
+   "to": "3.0",
+   "volume": 50.611
+  }
+ ]
+}

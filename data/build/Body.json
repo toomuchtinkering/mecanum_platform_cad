@@ -1,0 +1,15 @@
+{
+ "assembly": "Body",
+ "instances": 49,
+ "joints": 48,
+ "degrees_of_freedom": 0,
+ "overlap": "none",
+ "contact_gap": 0.5,
+ "overlaps_by_design": 44,
+ "excused": [],
+ "groups": {
+  "Printed_parts": 5,
+  "Norm_parts": 44
+ },
+ "parts": 49
+}

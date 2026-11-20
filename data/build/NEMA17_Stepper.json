@@ -1,0 +1,35 @@
+{
+ "document": "model/bought/NEMA17_Stepper.FCStd",
+ "volume": 72569.2279,
+ "faces": 28,
+ "bbox": [
+  -21.15,
+  -29.15,
+  -40.0,
+  21.15,
+  21.15,
+  24.0
+ ],
+ "flexed": [
+  {
+   "dimension": "boss_dia",
+   "to": "22.5",
+   "volume": 72604.178
+  },
+  {
+   "dimension": "shaft_dia",
+   "to": "6.35",
+   "volume": 72788.809
+  },
+  {
+   "dimension": "nema_pitch",
+   "to": "31.5 mm",
+   "volume": 72569.228
+  },
+  {
+   "dimension": "Length",
+   "to": "48.0",
+   "volume": 86627.548
+  }
+ ]
+}

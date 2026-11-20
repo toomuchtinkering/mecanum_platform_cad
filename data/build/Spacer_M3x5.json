@@ -1,0 +1,25 @@
+{
+ "document": "model/bought/Spacer_M3x5.FCStd",
+ "volume": 83.7095,
+ "faces": 9,
+ "bbox": [
+  -2.8868,
+  -2.5,
+  0.0,
+  2.8868,
+  2.5,
+  5.0
+ ],
+ "flexed": [
+  {
+   "dimension": "bore_dia",
+   "to": "3.2",
+   "volume": 68.041
+  },
+  {
+   "dimension": "Length",
+   "to": "6.0",
+   "volume": 100.451
+  }
+ ]
+}

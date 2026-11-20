@@ -1,0 +1,40 @@
+{
+ "document": "model/wheel/Motor_Side_Right.FCStd",
+ "volume": 17859.5583,
+ "faces": 130,
+ "bbox": [
+  -32.5,
+  -11.0,
+  -32.5,
+  32.5,
+  0.0,
+  32.499
+ ],
+ "flexed": [
+  {
+   "dimension": "cup_round",
+   "to": "4.5 mm",
+   "volume": 17862.181
+  },
+  {
+   "dimension": "cup_chamfer",
+   "to": "1.4 mm",
+   "volume": 17900.084
+  },
+  {
+   "dimension": "pin_axis_r",
+   "to": "27.3 mm",
+   "volume": 17846.045
+  },
+  {
+   "dimension": "pin_hole_depth",
+   "to": "3 mm",
+   "volume": 17886.5
+  },
+  {
+   "dimension": "pin_hole_round",
+   "to": "0.8 mm",
+   "volume": 17853.673
+  }
+ ]
+}

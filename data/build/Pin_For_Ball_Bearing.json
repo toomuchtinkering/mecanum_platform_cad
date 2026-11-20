@@ -1,0 +1,30 @@
+{
+ "document": "model/wheel/Pin_For_Ball_Bearing.FCStd",
+ "volume": 357.3431,
+ "faces": 10,
+ "bbox": [
+  -1.85,
+  -40.0,
+  -1.44,
+  1.85,
+  0.0,
+  1.85
+ ],
+ "flexed": [
+  {
+   "dimension": "tip_chamfer",
+   "to": "0.3",
+   "volume": 356.674
+  },
+  {
+   "dimension": "pin_d",
+   "to": "3.5 mm",
+   "volume": 333.059
+  },
+  {
+   "dimension": "pin_end_d",
+   "to": "2.7 mm",
+   "volume": 341.191
+  }
+ ]
+}
